@@ -1,3 +1,19 @@
+Xmas Shopping cart app with selectable amounts, discounts at multiple similar items.
+How to run:
+git clone
+go to folder
+run npm i
+npm run dev
+open in browser localhost:3000
+
+<p align="center">
+  <img src="public/app1" width="350" title="app frontpage">
+  <img src="public/app2" width="350" alt="app front page illustration
+                                         ">
+</p>
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
