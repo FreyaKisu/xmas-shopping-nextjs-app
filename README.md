@@ -7,9 +7,8 @@ npm run dev
 open in browser localhost:3000
 
 <p align="center">
-  <img src="public/app1.png" width="350" title="app frontpage">
-  <img src="public/app2.png" width="350" alt="app front page illustration
-                                         ">
+  <img src="app1.png" width="350" title="app frontpage">
+  <img src="app2.png" width="350" alt="app front page illustration                                   ">
 </p>
 
 
