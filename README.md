@@ -11,7 +11,7 @@ npm run dev
 
 open in browser localhost:3000
 
-  ![app frontpage](/public/app1.png)
+  ![app frontpage](/public/app1.PNG)
   ![app frontpage](/public/app2.png)                             
 
 
